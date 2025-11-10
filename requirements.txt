@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+mnemonic==0.20
+bip-utils==2.8.0
+solders==0.20.0
+solana==0.30.2
+spl-token==0.3.0
+base58==2.1.1
+asyncio==3.4.3
